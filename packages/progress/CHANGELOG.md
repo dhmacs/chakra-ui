@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.8
+
+### Patch Changes
+
+- [`946f8eab5`](https://github.com/chakra-ui/chakra-ui/commit/946f8eab5b98036db372dc0c85c9e5354c565b58)
+  [#3858](https://github.com/chakra-ui/chakra-ui/pull/3858) Thanks
+  [@antoniel](https://github.com/antoniel)! - Fix hyperlink to docs
+
 ## 1.1.7
 
 ### Patch Changes

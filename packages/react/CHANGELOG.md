@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.5.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`ad8a7b9f1`](https://github.com/chakra-ui/chakra-ui/commit/ad8a7b9f1064bba04a8f9cc022de2d773ab1e331),
+  [`946f8eab5`](https://github.com/chakra-ui/chakra-ui/commit/946f8eab5b98036db372dc0c85c9e5354c565b58)]:
+  - @chakra-ui/button@1.3.1
+  - @chakra-ui/progress@1.1.8
+
 ## 1.5.2
 
 ### Patch Changes

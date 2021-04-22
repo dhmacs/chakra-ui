@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.3.1
+
+### Patch Changes
+
+- [`ad8a7b9f1`](https://github.com/chakra-ui/chakra-ui/commit/ad8a7b9f1064bba04a8f9cc022de2d773ab1e331)
+  [#3875](https://github.com/chakra-ui/chakra-ui/pull/3875) Thanks
+  [@antoniel](https://github.com/antoniel)! - Resolved an issue where the `type`
+  prop of the `Button` component was set to `undefined`.
+
 ## 1.3.0
 
 ### Minor Changes
